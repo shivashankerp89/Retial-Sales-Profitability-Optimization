@@ -1,0 +1,50 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Supplier_ID,Cost_Price,MRP,validatioin column ,Store_Units,Reorder_Level,Brand,GST_Rate_Pct,Is_Perishable
+PRD001,iPhone 15,Electronics,Premium,SUP002,2216.23,5688.5,ok,0,36,P&G,28,Yes
+PRD002,"Samsung TV 55""",Electronics,Budget,SUP004,272.09,3407.82,ok,0,41,Apple,18,Yes
+PRD003,Dell Laptop,Electronics,Premium,SUP015,1140.71,3404.87,ok,0,18,Nestle,12,Yes
+PRD004,Sony Headphones,Electronics,Budget,SUP011,800,1178.11,ok,0,54,Nestle,18,Yes
+PRD005,Canon Camera,Electronics,Budget,SUP008,821.85,5928.76,ok,485,42,Adidas,5,No
+PRD006,iPad Air,Electronics,Budget,SUP013,3542.07,5296.86,ok,359,23,Adidas,12,No
+PRD007,OnePlus Watch,Electronics,Premium,SUP003,2117.48,2983.83,ok,485,10,Adidas,5,No
+PRD008,Levi's Jeans,Apparel,Premium,SUP002,2534.09,2027.272,review,293,16,P&G,5,No
+PRD009,Nike T-Shirt,Apparel,Standard,SUP015,3214.61,2973.19,review,200,59,Reliance,18,No
+PRD010,Adidas Hoodie,Apparel,Premium,SUP014,3185.54,596.13,review,435,66,Tata,28,No
+PRD011,Zara Dress,Apparel,Premium,SUP014,3957.93,1441.78,review,394,63,Apple,12,No
+PRD012,H&M Jacket,Apparel,Budget,SUP013,1000,1359.73,ok,494,31,Amul,5,Yes
+PRD013,Puma Shorts,Apparel,Premium,SUP006,1455.68,3187.1,ok,290,62,Nestle,28,Yes
+PRD014,Allen Solly Shirt,Apparel,Standard,SUP002,2191.74,64.06,review,16,73,Samsung,28,No
+PRD015,Amul Butter 500g,Grocery,Standard,SUP001,1954.18,5512.3,ok,93,58,HUL,28,No
+PRD016,Tata Salt 1kg,Grocery,Budget,SUP008,3653.33,1256.7,review,0,54,Tata,12,Yes
+PRD017,Maggi Noodles,Grocery,Premium,SUP001,2024.5,835.11,review,162,79,Sony,28,No
+PRD018,Aashirvaad Atta 10kg,Grocery,Budget,SUP003,1571.87,4318.61,ok,471,58,Tata,18,Yes
+PRD019,Bournvita 1kg,Grocery,Standard,SUP015,743.87,5517.56,ok,414,22,Apple,5,No
+PRD020,Parle-G Biscuits,Grocery,Standard,SUP010,1295.94,1036.752,review,495,71,Reliance,28,No
+PRD021,MDH Masala,Grocery,Premium,SUP007,899.51,1982.12,ok,313,38,Adidas,5,Yes
+PRD022,Philips Mixer,Home & Garden,Premium,SUP014,3586.19,190.16,review,113,30,Amul,12,Yes
+PRD023,Prestige Cooker,Home & Garden,Standard,SUP012,3120.8,3544.46,ok,327,67,Samsung,5,No
+PRD024,Godrej Refrigerator,Home & Garden,Standard,SUP007,5000,5508.31,ok,289,19,P&G,28,No
+PRD025,Havells Fan,Home & Garden,Budget,SUP008,3966.38,4659.74,ok,53,14,Reliance,12,No
+PRD026,Bajaj Iron,Home & Garden,Budget,SUP001,2131.85,5088.1,ok,479,47,Tata,12,Yes
+PRD027,Pigeon Kettle,Home & Garden,Budget,SUP007,3074.36,5172.38,ok,254,12,P&G,12,No
+PRD028,Kent Water Purifier,Home & Garden,Premium,SUP011,3998.43,5765.72,ok,72,50,HUL,12,No
+PRD029,Lakme Foundation,Beauty,Premium,SUP007,3896.7,2279.13,review,169,43,Adidas,12,No
+PRD030,Himalaya Face Wash,Beauty,Standard,SUP003,427.53,5655.02,ok,381,23,Reliance,5,No
+PRD031,LOreal Shampoo,Beauty,Premium,SUP006,2637.75,2409.84,review,39,19,Unknown,28,No
+PRD032,Nivea Moisturizer,Beauty,Premium,SUP004,1088.11,660.13,review,121,53,Reliance,5,Yes
+PRD033,Dove Soap,Beauty,Premium,SUP015,3270.65,1852.49,review,177,31,Adidas,28,Yes
+PRD034,Revlon Lipstick,Beauty,Premium,SUP003,3671.52,870.52,review,163,58,Apple,12,Yes
+PRD035,Biotique Serum,Beauty,Premium,SUP005,251.96,995.57,ok,85,30,Samsung,12,No
+PRD036,Yonex Badminton,Sports,Premium,SUP005,3985.68,5695.24,ok,325,19,Samsung,18,No
+PRD037,Cosco Cricket Bat,Sports,Premium,SUP008,901.06,4763.54,ok,453,80,Adidas,18,No
+PRD038,Adidas Football,Sports,Premium,SUP015,3390.63,5766.33,ok,493,21,Reliance,5,No
+PRD039,Nivia Basketball,Sports,Standard,SUP003,3195.64,3916.13,ok,45,53,Nestle,5,No
+PRD040,Decathlon Cycle,Sports,Standard,SUP001,1438.57,1094.76,review,420,71,Apple,28,Yes
+PRD041,SG Helmet,Sports,Budget,SUP010,3361.71,5814.33,ok,362,13,HUL,28,Yes
+PRD042,Kookaburra Ball,Sports,Budget,SUP010,3385.53,4179.75,ok,343,65,Sony,18,No
+PRD043,LEGO Classic,Toys,Budget,SUP010,729.12,5577.34,ok,327,31,Apple,18,Yes
+PRD044,Barbie Doll,Toys,Premium,SUP004,2382.3,4734.73,ok,373,65,Sony,28,No
+PRD045,Hot Wheels Set,Toys,Budget,SUP011,3230.65,1386.03,review,453,30,HUL,5,No
+PRD046,Funskool Puzzle,Toys,Budget,SUP005,2799.58,3558.36,ok,171,16,Samsung,28,No
+PRD047,Nerf Gun,Toys,Standard,SUP008,3658.5,1101.59,review,228,22,Tata,5,Yes
+PRD048,Rubiks Cube,Toys,Premium,SUP007,141.98,1882.53,ok,5,52,Adidas,28,Yes
+PRD049,Play-Doh Kit,Toys,Premium,SUP015,2811.23,4149.68,ok,135,36,Samsung,12,Yes

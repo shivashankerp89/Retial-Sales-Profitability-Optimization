@@ -1,0 +1,11 @@
+store_id,store_name,region,city,staff_count,store_size,gross_revenue,gross_profit,total_transactions,avg_basket_size
+STR001,"Megamart Delhi",East,Delhi,35,6048,559383.20,136577.65,22,25426.51
+STR002,"Shopzone Mumbai",North,Mumbai,27,4438,535184.74,127708.95,31,17264.02
+STR003,"Retailhub Bangalore",South,Bangalore,23,10584,206773.28,52720.02,20,10338.66
+STR004,"Valuestore Chennai",Central,Chennai,29,20031,567339.08,123417.92,27,21012.56
+STR005,"Freshmart Hyderabad",South,Hyderabad,23,16535,847919.16,198173.08,40,21197.98
+STR006,"Quickshop Pune",West,Pune,31,15205,388186.29,88202.99,23,16877.66
+STR007,"Citymall Kolkata",West,Kolkata,67,18022,549495.88,150355.28,20,27474.79
+STR008,"Starstore Ahmedabad",North,Ahmedabad,69,6131,5106699.51,1734636.32,38,134386.83
+STR009,"Primemart Jaipur",South,Jaipur,50,22030,739912.35,228627.15,24,30829.68
+STR010,"Superzone Lucknow",East,"Lucknow ",62,6131,821738.92,192830.62,35,23478.25

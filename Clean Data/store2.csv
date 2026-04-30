@@ -1,0 +1,11 @@
+﻿Store_ID,Store_Name,Region,City,Store_Size,Manager_Name,Open_Since,Monthly_Rent,Staff_Count,Is_active
+STR001,Megamart Delhi,East,Delhi,6048,Raj Sharma,2015-09-02,358226,35,Yes
+STR002,Shopzone Mumbai,North,Mumbai,4438,Priya Mehta,2011-07-01,134897,27,Yes
+STR003,Retailhub Bangalore,South,Bangalore,10584,Anil Kumar,2017-02-23,202504,23,No
+STR004,Valuestore Chennai,Central,Chennai,20031,Sunita Rao,2019-03-13,437384,29,No
+STR005,Freshmart Hyderabad,South,Hyderabad,16535,Vikram Singh,2014-06-04,468938,23,No
+STR006,Quickshop Pune,West,Pune,15205,Meena Joshi,2010-11-03,358226,31,Yes
+STR007,Citymall Kolkata,West,Kolkata,18022,Deepak Verma,2016-08-21,429398,67,No
+STR008,Starstore Ahmedabad,North,Ahmedabad,6131,Kavita Nair,2016-05-14,217026,69,Yes
+STR009,Primemart Jaipur,South,Jaipur,22030,Rohit Gupta,2010-09-13,270158,50,Yes
+STR010,Superzone Lucknow,East,Lucknow ,6131,Sneha Pillai,2014-11-17,178117,62,Yes
